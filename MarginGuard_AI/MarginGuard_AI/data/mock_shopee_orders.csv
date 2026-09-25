@@ -1,6 +1,0 @@
-sku_id,sku_name,revenue,cogs,ad_spend,units_sold,voucher_shop,voucher_xtra_applied,campaign_id,timestamp
-SKU-001,Ốp Lưng iPhone 15 Pro Premium,450000,120000,45000,3,15000,false,CAMP-001,2026-09-25T08:00:00
-SKU-002,Tai Nghe Bluetooth V5.3,320000,190000,35000,2,10000,true,CAMP-002,2026-09-25T08:05:00
-SKU-003,Bộ Sạc Nhanh 20W (SKU Mega Sale),350000,270000,85000,1,20000,true,CAMP-003,2026-09-25T08:10:00
-SKU-004,Dây Cáp USB-C 2m Bền,180000,80000,20000,5,0,false,CAMP-004,2026-09-25T08:15:00
-SKU-005,Pin Dự Phòng 20000mAh Anker,650000,430000,90000,2,30000,true,CAMP-005,2026-09-25T08:20:00
